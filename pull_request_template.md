@@ -17,7 +17,8 @@
 <!--E.g. remember to check the items in the list if you complete them. To mark a task as complete, use [x] -->
 - [ ] Code follows the standardized formatting.
 - [ ] Code has been commented and documented appropriately.
-- [ ] Tested the changes.
-- [ ] \(Optional) Confluence documentation has been updated to reflect changes made.
+- [ ] Tested changes in `stg` environment
+- [ ] \(if applicable) Updated the test cases.
+- [ ] \(if applicable) Confluence documentation has been updated to reflect changes made.
 
 <!--Hooray! You are all set for the Pull Request! -->
