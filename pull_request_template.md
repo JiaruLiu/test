@@ -22,8 +22,8 @@
 - [] \(if applicable) Confluence documentation has been updated to reflect changes made.
 
 ## Security
-Are you opening access for a resource to a non-GoGuardian entity (e.g. an s3 bucket policy with whitelisted IP addresses)?
-- [] Yes. (Please request review from the Security team!)
-- [] No. (You are all set.)
+-Are you opening access for a resource to a non-GoGuardian entity (e.g. an s3 bucket policy with whitelisted IP addresses)?
+  - [] Yes. (Please request review from the Security team!)
+  - [] No. (You are all set.)
 
 <!--Hooray! You are all set for the Pull Request! -->
